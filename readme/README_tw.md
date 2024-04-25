@@ -1,7 +1,7 @@
 ![Banner](https://ctmrepository.com/map_img/6926650110728662.PNG)
 
 # Ragecraft IV: Underworld 資源包
-#### [English](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README.md) / [台灣正體](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README_tw.md) / [简体中文](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README_cn.md)
+#### [English](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README.md) / [台灣正體](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/master/readme/README_tw.md) / [简体中文](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README_cn.md)
 
 ## 說明
 這個倉儲是為 CTM 紀念碑 Minecraft 地圖《狂亂之境 IV：地下奇譚》中的資源包創建的。
