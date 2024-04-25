@@ -8,7 +8,7 @@ This repository is created for the resourcepack of Minecraft CTM Monument "Ragec
 The current supported version is **1.1.0**。
 
 ## How to translate the Map
-In this version of the Map, the original version and translated versions are seperated. You need to download a modified version of the Map containing translation json keys to get the translation: [CLICK HERE TO DOWNLOAD]()
+In this version of the Map, the original version and translated versions are separated. You need to download a modified version of the Map containing translation json keys to get the translation: [CLICK HERE TO DOWNLOAD]()
 
 **IMPORTANT！！！Your game progress in the original version CAN'T BE MIGRATED to the translation version！！！ because we use a modified version of the Map. PLEASE OPEN THE WORLD IN A DIFFERENT SAVE OR FOLDER！！！**
 
