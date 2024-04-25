@@ -1,7 +1,7 @@
 ![Banner](https://ctmrepository.com/map_img/6926650110728662.PNG)
 
 # Ragecraft IV: Underworld 资源包
-#### [English](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/292dbc431acd5cb38b50564fe437aa90c5e13dc6/readme/README.md) / [台灣正體](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/master/readme/README_tw.md) / 简体中文
+#### [English](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/master/readme/README.md) / [台灣正體](https://github.com/champsing/Ragecraft-IV-resourcepack/blob/master/readme/README_tw.md) / 简体中文
 ## 说明
 这个仓库是为 CTM 纪念碑 Minecraft 地图《狂乱之境 IV：失落深域》中的资源包创建的。
 目前支持的地图版本为 **1.1.0**。
