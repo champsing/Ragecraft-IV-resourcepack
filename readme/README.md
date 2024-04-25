@@ -5,7 +5,7 @@
 
 ## Description
 This repository is created for the resourcepack of Minecraft CTM Monument "Ragecraft IV: Underworld".
-The current supported version is **1.1.0**。
+The current supported version is **1.1.0**.
 
 ## How to translate the Map
 In this version of the Map, the original version and translated versions are separated. You need to download a modified version of the Map containing translation json keys to get the translation: [CLICK HERE TO DOWNLOAD]()
