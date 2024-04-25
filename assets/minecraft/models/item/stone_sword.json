@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/base_stone_sword_fire" },
+    { "predicate": { "custom_model_data": 2}, "model": "item/base_stone_sword_ice" },
+    { "predicate": { "custom_model_data": 3}, "model": "item/base_stone_sword_poison" },
+    { "predicate": { "custom_model_data": 4}, "model": "item/base_stone_sword_blood" },
+    { "predicate": { "custom_model_data": 5}, "model": "item/base_stone_sword_arcane" },
+	  { "predicate": { "custom_model_data": 10}, "model": "item/obsidian_spike" },
+    { "predicate": { "custom_model_data": 11}, "model": "item/obsidian_spike_fire" },  
+    { "predicate": { "custom_model_data": 12}, "model": "item/obsidian_spike_ice" },
+    { "predicate": { "custom_model_data": 13}, "model": "item/obsidian_spike_poison" },
+    { "predicate": { "custom_model_data": 14}, "model": "item/obsidian_spike_blood" },
+    { "predicate": { "custom_model_data": 15}, "model": "item/obsidian_spike_arcane" },
+    { "predicate": { "custom_model_data": 20}, "model": "item/shiv" },
+    { "predicate": { "custom_model_data": 21}, "model": "item/shiv_fire" },
+    { "predicate": { "custom_model_data": 22}, "model": "item/shiv_ice" },
+    { "predicate": { "custom_model_data": 23}, "model": "item/shiv_poison" },
+    { "predicate": { "custom_model_data": 24}, "model": "item/shiv_blood" },
+    { "predicate": { "custom_model_data": 25}, "model": "item/shiv_arcane" },
+    { "predicate": { "custom_model_data": 30}, "model": "item/longsword" },
+    { "predicate": { "custom_model_data": 31}, "model": "item/longsword_fire" },
+    { "predicate": { "custom_model_data": 32}, "model": "item/longsword_ice" },
+    { "predicate": { "custom_model_data": 33}, "model": "item/longsword_poison" },
+    { "predicate": { "custom_model_data": 34}, "model": "item/longsword_blood" },
+    { "predicate": { "custom_model_data": 35}, "model": "item/longsword_arcane" },
+    { "predicate": { "custom_model_data": 40}, "model": "item/stone_dagger" },
+    { "predicate": { "custom_model_data": 41}, "model": "item/stone_dagger_fire" },
+    { "predicate": { "custom_model_data": 42}, "model": "item/stone_dagger_ice" },
+    { "predicate": { "custom_model_data": 43}, "model": "item/stone_dagger_poison" },
+    { "predicate": { "custom_model_data": 44}, "model": "item/stone_dagger_blood" },
+    { "predicate": { "custom_model_data": 45}, "model": "item/stone_dagger_arcane" },
+    { "predicate": { "custom_model_data": 50}, "model": "item/bloodshank" },
+    { "predicate": { "custom_model_data": 51}, "model": "item/venom_fang" },
+    { "predicate": { "custom_model_data": 52}, "model": "item/prismarine_blade" },
+    { "predicate": { "custom_model_data": 53}, "model": "item/winters_bane" },
+    { "predicate": { "custom_model_data": 54}, "model": "item/magmablade" },
+    { "predicate": { "custom_model_data": 55}, "model": "item/thousand_cuts" }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/skullcrusher_fire"
+	},
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 44],
+            "translation": [ 0, 5, 2],
+            "scale": [ 1.5, 1.5, 1]
+        },
+		"thirdperson_lefthand": {
+            "rotation": [ 0, 90, -44],
+            "translation": [ 0, 5, 2],
+            "scale": [ 1.5, 1.5, 1]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 60 ],
+            "translation": [ 6, 2, -4 ],
+            "scale": [ 1.8, 1.8, 1.2 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -60 ],
+            "translation": [ 6, 2, -4 ],
+            "scale": [ 1.8, 1.8, 1.2 ]
+        }
+    }
+}

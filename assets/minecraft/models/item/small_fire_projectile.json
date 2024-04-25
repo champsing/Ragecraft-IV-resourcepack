@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/small_fire_projectile"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 1.0]
+		},
+		"fixed": {
+			"scale": [1.0, 1.0, 1.0]
+		}
+	}
+}

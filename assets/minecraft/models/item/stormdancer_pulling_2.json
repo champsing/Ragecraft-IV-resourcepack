@@ -1,0 +1,6 @@
+{
+    "parent": "item/stormdancer",
+    "textures": {
+        "layer0": "item/stormdancer_pulling_2"
+    }
+}

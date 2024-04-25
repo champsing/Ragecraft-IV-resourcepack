@@ -1,0 +1,6 @@
+{
+    "parent": "item/the_sting",
+    "textures": {
+        "layer0": "item/the_sting_pulling_0"
+    }
+}

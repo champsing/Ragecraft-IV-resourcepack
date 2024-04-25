@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/reaping_wand_projectile"
+  },
+	"display": {
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [1.0, 1.0, 1]
+		},
+		"fixed": {
+			"scale": [1, 1, 1]
+		}
+	}
+}

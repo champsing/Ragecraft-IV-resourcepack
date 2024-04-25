@@ -1,0 +1,6 @@
+{
+    "parent": "item/arachnophilia",
+    "textures": {
+        "layer0": "item/arachnophilia_pulling_2"
+    }
+}

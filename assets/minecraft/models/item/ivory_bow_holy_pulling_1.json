@@ -1,0 +1,6 @@
+{
+    "parent": "item/ivory_bow_holy",
+    "textures": {
+        "layer0": "item/ivory_bow_holy_pulling_1"
+    }
+}

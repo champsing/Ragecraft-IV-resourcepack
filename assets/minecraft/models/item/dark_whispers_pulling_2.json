@@ -1,0 +1,6 @@
+{
+    "parent": "item/dark_whispers",
+    "textures": {
+        "layer0": "item/dark_whispers_pulling_2"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uE100": -48, "\uE101": -169, "\uE102": 37
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/offhand.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/rune_blue.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/unique.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/rune_purple.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/emerald.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/secret.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/potion.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/reward.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/gift.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/crystal.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers/black_crystal.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE00A"]
+        },
+		
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers_zh/unique.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers_zh/emerald.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "rc4:font/containers_zh/reward.png",
+            "ascent": 35, "height": 128,
+            "chars": ["\uE017"]
+        }
+    ]
+}

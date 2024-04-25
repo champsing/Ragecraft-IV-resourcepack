@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/disintegrator_blood"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-6, -90, 39],
+			"translation": [0, 15, 2],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-6, 90, -39],
+			"translation": [0, 15, 2],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, -82, 35],
+			"translation": [5.25, 4.75, -3],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 91, -35],
+			"translation": [6.25, 4.75, -3],
+			"scale": [1.5, 1.5, 1]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [173, -90, -28],
+			"translation": [-0.5, 9, 2],
+			"scale": [2.7, 2.7, 1]
+		},
+		"fixed": {
+			"scale": [1.2, 1.2, 1]
+		}
+	}
+}

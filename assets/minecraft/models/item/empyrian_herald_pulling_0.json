@@ -1,0 +1,6 @@
+{
+    "parent": "item/empyrian_herald",
+    "textures": {
+        "layer0": "item/empyrian_herald_pulling_0"
+    }
+}

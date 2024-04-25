@@ -1,0 +1,6 @@
+{
+    "parent": "item/arctic_wrath",
+    "textures": {
+        "layer0": "item/arctic_wrath_pulling_2"
+    }
+}

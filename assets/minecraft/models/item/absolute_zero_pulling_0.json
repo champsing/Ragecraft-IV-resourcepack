@@ -1,0 +1,6 @@
+{
+    "parent": "item/absolute_zero",
+    "textures": {
+        "layer0": "item/absolute_zero_pulling_0"
+    }
+}

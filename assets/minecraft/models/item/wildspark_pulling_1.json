@@ -1,0 +1,6 @@
+{
+    "parent": "item/wildspark",
+    "textures": {
+        "layer0": "item/wildspark_pulling_1"
+    }
+}

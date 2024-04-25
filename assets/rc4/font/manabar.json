@@ -1,0 +1,50 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "n": -2, "B": -80
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_full.png",
+      "ascent": 2, "height": 27, "chars": ["F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_half.png",
+      "ascent": 2, "height": 27, "chars": ["H"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_empty.png",
+      "ascent": 2, "height": 27, "chars": ["E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_glowing.png",
+      "ascent": 2, "height": 27, "chars": ["G"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_full.png",
+      "ascent": 12, "height": 27, "chars": ["f"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_half.png",
+      "ascent": 12, "height": 27, "chars": ["h"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_empty.png",
+      "ascent": 12, "height": 27, "chars": ["e"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/manabar/mana_glowing.png",
+      "ascent": 12, "height": 27, "chars": ["g"]
+    }
+  ]
+}

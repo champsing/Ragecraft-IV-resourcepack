@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 1}, "model": "item/base_iron_sword_fire" },
+	{ "predicate": { "custom_model_data": 2}, "model": "item/base_iron_sword_ice" },
+	{ "predicate": { "custom_model_data": 3}, "model": "item/base_iron_sword_poison" },
+	{ "predicate": { "custom_model_data": 4}, "model": "item/base_iron_sword_blood" },
+    { "predicate": { "custom_model_data": 5}, "model": "item/base_iron_sword_arcane" },
+	{ "predicate": { "custom_model_data": 10}, "model": "item/iron_claymore" },
+	{ "predicate": { "custom_model_data": 11}, "model": "item/iron_claymore_fire" },
+    { "predicate": { "custom_model_data": 12}, "model": "item/iron_claymore_ice" },
+    { "predicate": { "custom_model_data": 13}, "model": "item/iron_claymore_poison" },
+    { "predicate": { "custom_model_data": 14}, "model": "item/iron_claymore_blood" },
+    { "predicate": { "custom_model_data": 15}, "model": "item/iron_claymore_arcane" },
+    { "predicate": { "custom_model_data": 20}, "model": "item/iron_broadsword" },
+    { "predicate": { "custom_model_data": 21}, "model": "item/iron_broadsword_fire" },
+    { "predicate": { "custom_model_data": 22}, "model": "item/iron_broadsword_ice" },
+	{ "predicate": { "custom_model_data": 23}, "model": "item/iron_broadsword_poison" },
+	{ "predicate": { "custom_model_data": 24}, "model": "item/iron_broadsword_blood" },
+    { "predicate": { "custom_model_data": 25}, "model": "item/iron_broadsword_arcane" },
+    { "predicate": { "custom_model_data": 30}, "model": "item/saber" },
+    { "predicate": { "custom_model_data": 31}, "model": "item/saber_fire" },
+    { "predicate": { "custom_model_data": 32}, "model": "item/saber_ice" },
+	{ "predicate": { "custom_model_data": 33}, "model": "item/saber_poison" },
+	{ "predicate": { "custom_model_data": 34}, "model": "item/saber_blood" },
+    { "predicate": { "custom_model_data": 35}, "model": "item/saber_arcane" },
+    { "predicate": { "custom_model_data": 40}, "model": "item/rapier" },
+    { "predicate": { "custom_model_data": 41}, "model": "item/rapier_fire" },
+    { "predicate": { "custom_model_data": 42}, "model": "item/rapier_ice" },
+	{ "predicate": { "custom_model_data": 43}, "model": "item/rapier_poison" },
+	{ "predicate": { "custom_model_data": 44}, "model": "item/rapier_blood" },
+    { "predicate": { "custom_model_data": 45}, "model": "item/rapier_arcane" },
+    { "predicate": { "custom_model_data": 50}, "model": "item/hells_edge" },
+    { "predicate": { "custom_model_data": 51}, "model": "item/empyrian_scourge" },
+    { "predicate": { "custom_model_data": 53}, "model": "item/netherfury" },
+    { "predicate": { "custom_model_data": 54}, "model": "item/hateblade" },
+    { "predicate": { "custom_model_data": 99}, "model": "item/giant_flaming_whip" }
+    ]
+}

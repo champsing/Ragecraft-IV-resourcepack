@@ -1,0 +1,6 @@
+{
+    "parent": "item/longbow_poison",
+    "textures": {
+        "layer0": "item/longbow_poison_pulling_0"
+    }
+}

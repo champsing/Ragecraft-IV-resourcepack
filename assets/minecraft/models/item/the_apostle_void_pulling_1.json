@@ -1,0 +1,6 @@
+{
+    "parent": "item/the_apostle_void",
+    "textures": {
+        "layer0": "item/the_apostle_void_pulling_1"
+    }
+}

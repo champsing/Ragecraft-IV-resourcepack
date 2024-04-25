@@ -1,0 +1,6 @@
+{
+    "parent": "item/longbow_arcane",
+    "textures": {
+        "layer0": "item/longbow_arcane_pulling_0"
+    }
+}

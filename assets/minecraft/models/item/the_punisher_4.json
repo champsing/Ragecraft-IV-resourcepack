@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/the_punisher_4"
+    },
+    "overrides": [
+        { "predicate": { "cast": 1}, "model": "item/the_punisher_4_cast"}
+    ]
+}

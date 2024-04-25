@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond_horse_armor"
+  }
+  ,
+    "overrides": [
+	{ "predicate": { "custom_model_data": 11}, "model": "item/r_11" },
+	{ "predicate": { "custom_model_data": 12}, "model": "item/r_12" },
+	{ "predicate": { "custom_model_data": 13}, "model": "item/r_13" },     
+	{ "predicate": { "custom_model_data": 14}, "model": "item/r_14" },
+	{ "predicate": { "custom_model_data": 21}, "model": "item/r_21" },
+	{ "predicate": { "custom_model_data": 22}, "model": "item/r_22" },
+	{ "predicate": { "custom_model_data": 23}, "model": "item/r_23" },
+	{ "predicate": { "custom_model_data": 24}, "model": "item/r_24" },
+	{ "predicate": { "custom_model_data": 25}, "model": "item/r_25" }
+    ]
+}

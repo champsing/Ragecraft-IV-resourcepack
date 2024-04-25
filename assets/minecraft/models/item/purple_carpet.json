@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/purple_carpet",
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "rc4:item/town_portal_base" }
+    ]
+}

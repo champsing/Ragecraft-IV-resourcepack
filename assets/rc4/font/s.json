@@ -1,0 +1,129 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:p.png",
+      "ascent": 1000,
+      "height": 2000,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/emerald.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/lapis_lazuli.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["c"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/amethyst_shard.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["d"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/xp.png",
+      "ascent": -16,
+      "height": 8,
+      "chars": ["e"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/xp.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["f"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/leather.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["g"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/chain.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["h"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/cobble.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["i"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/iron_ingot.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["j"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/diamond.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["k"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/netherite_ingot.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["l"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/mouse.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["m"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/mouse_rb.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": ["n"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/title.png",
+      "ascent": 15,
+      "height": 20,
+      "chars": ["ñ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/title_zh_cn.png",
+      "ascent": 15,
+      "height": 20,
+      "chars": ["简"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/title_zh_tw.png",
+      "ascent": 15,
+      "height": 20,
+      "chars": ["繁"]
+    }
+  ]
+}

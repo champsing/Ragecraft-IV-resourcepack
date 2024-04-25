@@ -1,0 +1,6 @@
+{
+    "parent": "item/siege_bow_chaos",
+    "textures": {
+        "layer0": "item/siege_bow_chaos_pulling_0"
+    }
+}

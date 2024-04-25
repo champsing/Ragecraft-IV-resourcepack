@@ -1,0 +1,6 @@
+{
+    "parent": "item/shortbow_poison",
+    "textures": {
+        "layer0": "item/shortbow_poison_pulling_2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/base_bow_chaos",
+    "textures": {
+        "layer0": "item/base_bow_chaos_pulling_0"
+    }
+}

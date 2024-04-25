@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 1}, "model": "item/base_netherite_sword_fire" },
+  { "predicate": { "custom_model_data": 2}, "model": "item/base_netherite_sword_ice" },
+  { "predicate": { "custom_model_data": 3}, "model": "item/base_netherite_sword_poison" },
+  { "predicate": { "custom_model_data": 4}, "model": "item/base_netherite_sword_blood" },
+  { "predicate": { "custom_model_data": 5}, "model": "item/base_netherite_sword_arcane" },
+	{ "predicate": { "custom_model_data": 10}, "model": "item/darkthorne" },
+  { "predicate": { "custom_model_data": 11}, "model": "item/darkthorne_fire" },
+  { "predicate": { "custom_model_data": 12}, "model": "item/darkthorne_ice" },
+  { "predicate": { "custom_model_data": 13}, "model": "item/darkthorne_poison" },
+  { "predicate": { "custom_model_data": 14}, "model": "item/darkthorne_blood" },
+  { "predicate": { "custom_model_data": 15}, "model": "item/darkthorne_arcane" },
+  { "predicate": { "custom_model_data": 20}, "model": "item/whirlwind" },
+  { "predicate": { "custom_model_data": 21}, "model": "item/whirlwind_fire" },
+  { "predicate": { "custom_model_data": 22}, "model": "item/whirlwind_ice" },
+  { "predicate": { "custom_model_data": 23}, "model": "item/whirlwind_poison" },
+  { "predicate": { "custom_model_data": 24}, "model": "item/whirlwind_blood" },
+  { "predicate": { "custom_model_data": 25}, "model": "item/whirlwind_arcane" },
+	{ "predicate": { "custom_model_data": 30}, "model": "item/voidblade" },
+  { "predicate": { "custom_model_data": 31}, "model": "item/voidblade_fire" },
+  { "predicate": { "custom_model_data": 32}, "model": "item/voidblade_ice" },
+  { "predicate": { "custom_model_data": 33}, "model": "item/voidblade_poison" },
+  { "predicate": { "custom_model_data": 34}, "model": "item/voidblade_blood" },
+  { "predicate": { "custom_model_data": 35}, "model": "item/voidblade_arcane" },
+  { "predicate": { "custom_model_data": 40}, "model": "item/disintegrator" },
+  { "predicate": { "custom_model_data": 41}, "model": "item/disintegrator_fire" },
+  { "predicate": { "custom_model_data": 42}, "model": "item/disintegrator_ice" },
+  { "predicate": { "custom_model_data": 43}, "model": "item/disintegrator_poison" },
+  { "predicate": { "custom_model_data": 44}, "model": "item/disintegrator_blood" },
+  { "predicate": { "custom_model_data": 45}, "model": "item/disintegrator_arcane" },
+  { "predicate": { "custom_model_data": 50}, "model": "item/pestilence" },
+  { "predicate": { "custom_model_data": 51}, "model": "item/trinity_blade_fire" },
+  { "predicate": { "custom_model_data": 52}, "model": "item/trinity_blade_ice" },
+  { "predicate": { "custom_model_data": 55}, "model": "item/trinity_blade_lightning" },
+  { "predicate": { "custom_model_data": 56}, "model": "item/thousand_cuts_void" }
+    ]
+}

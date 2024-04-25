@@ -1,0 +1,32 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_aegis"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 44],
+			"translation": [2.25, -2.25, 3.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 44],
+			"translation": [2.25, -2.25, 3.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -55, -25],
+			"translation": [6.25, 0.75, -4],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -55, -25],
+			"translation": [6.25, 0.75, -4],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -0.5, -6.75]
+		}
+	}
+}

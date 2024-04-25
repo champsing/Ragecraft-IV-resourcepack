@@ -1,0 +1,6 @@
+{
+    "parent": "item/shortbow_fire",
+    "textures": {
+        "layer0": "item/shortbow_fire_pulling_2"
+    }
+}

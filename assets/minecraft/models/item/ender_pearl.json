@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_pearl"
+    },
+    "overrides": [
+
+        { "predicate": {"custom_model_data": 1}, "model": "rc4:item/town_portal" },
+        { "predicate": {"custom_model_data": 2711}, "model": "rc4:item/town_portal_ground" },
+        { "predicate": {"custom_model_data": 2712}, "model": "rc4:item/grave" }
+        
+    ]
+}

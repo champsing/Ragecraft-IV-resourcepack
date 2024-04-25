@@ -1,0 +1,6 @@
+{
+    "parent": "item/primal_bow_arcane",
+    "textures": {
+        "layer0": "item/primal_bow_arcane_pulling_1"
+    }
+}

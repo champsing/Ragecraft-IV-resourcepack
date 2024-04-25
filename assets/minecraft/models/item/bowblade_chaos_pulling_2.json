@@ -1,0 +1,6 @@
+{
+    "parent": "item/bowblade_chaos",
+    "textures": {
+        "layer0": "item/bowblade_chaos_pulling_2"
+    }
+}

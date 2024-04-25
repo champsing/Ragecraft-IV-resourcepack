@@ -1,0 +1,6 @@
+{
+    "parent": "item/longbow_holy",
+    "textures": {
+        "layer0": "item/longbow_holy_pulling_2"
+    }
+}

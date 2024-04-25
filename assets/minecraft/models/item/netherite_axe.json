@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 10}, "model": "item/abyssos" },
+  { "predicate": { "custom_model_data": 190}, "model": "item/netherite_axe" },
+  { "predicate": { "custom_model_data": 191}, "model": "item/base_netherite_axe_fire" },
+  { "predicate": { "custom_model_data": 192}, "model": "item/base_netherite_axe_ice" },
+  { "predicate": { "custom_model_data": 193}, "model": "item/base_netherite_axe_blood" },
+  { "predicate": { "custom_model_data": 194}, "model": "item/base_netherite_axe_lightning" },
+  { "predicate": { "custom_model_data": 195}, "model": "item/base_netherite_axe_chaos" },
+  { "predicate": { "custom_model_data": 200}, "model": "item/black_razor" },
+  { "predicate": { "custom_model_data": 201}, "model": "item/black_razor_fire" },
+  { "predicate": { "custom_model_data": 202}, "model": "item/black_razor_ice" },
+  { "predicate": { "custom_model_data": 203}, "model": "item/black_razor_blood" },
+  { "predicate": { "custom_model_data": 204}, "model": "item/black_razor_lightning" },
+  { "predicate": { "custom_model_data": 205}, "model": "item/black_razor_chaos" },
+	{ "predicate": { "custom_model_data": 210}, "model": "item/skullcrusher" },
+  { "predicate": { "custom_model_data": 211}, "model": "item/skullcrusher_fire" },
+  { "predicate": { "custom_model_data": 212}, "model": "item/skullcrusher_ice" },
+  { "predicate": { "custom_model_data": 213}, "model": "item/skullcrusher_blood" },
+  { "predicate": { "custom_model_data": 214}, "model": "item/skullcrusher_lightning" },
+  { "predicate": { "custom_model_data": 215}, "model": "item/skullcrusher_chaos" },
+	{ "predicate": { "custom_model_data": 220}, "model": "item/behemoth" },
+  { "predicate": { "custom_model_data": 221}, "model": "item/behemoth_fire" },
+  { "predicate": { "custom_model_data": 222}, "model": "item/behemoth_ice" },
+  { "predicate": { "custom_model_data": 223}, "model": "item/behemoth_blood" },
+  { "predicate": { "custom_model_data": 224}, "model": "item/behemoth_lightning" },
+  { "predicate": { "custom_model_data": 225}, "model": "item/behemoth_chaos" }
+    ]
+}

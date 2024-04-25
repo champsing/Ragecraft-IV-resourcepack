@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/blighted_branch_projectile"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.3, 0.3, 1]
+		},
+		"fixed": {
+			"scale": [1.0, 1.0, 1.0]
+		}
+	}
+}

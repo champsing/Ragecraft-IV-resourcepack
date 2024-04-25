@@ -1,0 +1,6 @@
+{
+    "parent": "item/harbinger_of_pain",
+    "textures": {
+        "layer0": "item/harbinger_of_pain_pulling_2"
+    }
+}

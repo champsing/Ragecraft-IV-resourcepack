@@ -1,0 +1,6 @@
+{
+    "parent": "item/the_apostle",
+    "textures": {
+        "layer0": "item/the_apostle_pulling_2"
+    }
+}

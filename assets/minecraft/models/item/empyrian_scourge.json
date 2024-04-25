@@ -1,0 +1,28 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/empyrian_scourge"
+	},
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 44],
+            "translation": [ 0, 12, 2],
+            "scale": [ 1.5, 1.5, 1]
+        },
+		"thirdperson_lefthand": {
+            "rotation": [ 44, -90, 0],
+            "translation": [ 0, 12, 2],
+            "scale": [ 1.5, 1.5, 1]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 35 ],
+            "translation": [ 6, 2, -4 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 55, -90, 0 ],
+            "translation": [ 6, 2, -4 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        }
+    }
+}

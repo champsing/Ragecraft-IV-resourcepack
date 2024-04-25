@@ -1,0 +1,6 @@
+{
+    "parent": "item/shortbow_ice",
+    "textures": {
+        "layer0": "item/shortbow_ice_pulling_2"
+    }
+}

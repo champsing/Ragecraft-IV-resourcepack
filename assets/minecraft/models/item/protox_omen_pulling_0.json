@@ -1,0 +1,6 @@
+{
+    "parent": "item/protox_omen",
+    "textures": {
+        "layer0": "item/protox_omen_pulling_0"
+    }
+}

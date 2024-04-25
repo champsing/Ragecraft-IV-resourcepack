@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 150}, "model": "item/diamond_axe" },
+  { "predicate": { "custom_model_data": 151}, "model": "item/base_diamond_axe_fire" },
+  { "predicate": { "custom_model_data": 152}, "model": "item/base_diamond_axe_ice" },
+  { "predicate": { "custom_model_data": 153}, "model": "item/base_diamond_axe_blood" },
+  { "predicate": { "custom_model_data": 154}, "model": "item/base_diamond_axe_lightning" },
+  { "predicate": { "custom_model_data": 155}, "model": "item/base_diamond_axe_chaos" },
+	{ "predicate": { "custom_model_data": 160}, "model": "item/diamond_cleaver" },
+  { "predicate": { "custom_model_data": 161}, "model": "item/diamond_cleaver_fire" },
+  { "predicate": { "custom_model_data": 162}, "model": "item/diamond_cleaver_ice" },
+  { "predicate": { "custom_model_data": 163}, "model": "item/diamond_cleaver_blood" },
+  { "predicate": { "custom_model_data": 164}, "model": "item/diamond_cleaver_lightning" },
+  { "predicate": { "custom_model_data": 165}, "model": "item/diamond_cleaver_chaos" },
+	{ "predicate": { "custom_model_data": 170}, "model": "item/exalted_axe" },
+  { "predicate": { "custom_model_data": 171}, "model": "item/exalted_axe_fire" },
+  { "predicate": { "custom_model_data": 172}, "model": "item/exalted_axe_ice" },
+  { "predicate": { "custom_model_data": 173}, "model": "item/exalted_axe_blood" },
+  { "predicate": { "custom_model_data": 174}, "model": "item/exalted_axe_lightning" },
+  { "predicate": { "custom_model_data": 175}, "model": "item/exalted_axe_chaos" },
+	{ "predicate": { "custom_model_data": 180}, "model": "item/executioner" },
+  { "predicate": { "custom_model_data": 181}, "model": "item/executioner_fire" },
+  { "predicate": { "custom_model_data": 182}, "model": "item/executioner_ice" },
+  { "predicate": { "custom_model_data": 183}, "model": "item/executioner_blood" },
+  { "predicate": { "custom_model_data": 184}, "model": "item/executioner_lightning" },
+  { "predicate": { "custom_model_data": 185}, "model": "item/executioner_chaos" }
+    ]
+}

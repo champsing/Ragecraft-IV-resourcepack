@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_pickaxe"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 1}, "model": "item/diamond_pickaxe_arcane" },
+  { "predicate": { "custom_model_data": 2}, "model": "item/diamond_pickaxe_fire" },
+  { "predicate": { "custom_model_data": 3}, "model": "item/diamond_pickaxe_holy" },
+  { "predicate": { "custom_model_data": 4}, "model": "item/diamond_pickaxe_lightning" },
+  { "predicate": { "custom_model_data": 100}, "model": "item/touch_of_zeus" }
+    ]
+}

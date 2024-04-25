@@ -1,0 +1,6 @@
+{
+    "parent": "item/ghostflame",
+    "textures": {
+        "layer0": "item/ghostflame_pulling_0"
+    }
+}

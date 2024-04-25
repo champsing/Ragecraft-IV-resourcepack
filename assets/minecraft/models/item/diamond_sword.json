@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 1}, "model": "item/base_diamond_sword_fire" },
+  { "predicate": { "custom_model_data": 2}, "model": "item/base_diamond_sword_ice" },
+  { "predicate": { "custom_model_data": 3}, "model": "item/base_diamond_sword_poison" },
+  { "predicate": { "custom_model_data": 4}, "model": "item/base_diamond_sword_blood" },
+  { "predicate": { "custom_model_data": 5}, "model": "item/base_diamond_sword_arcane" },
+	{ "predicate": { "custom_model_data": 10}, "model": "item/crystal_sabre" },
+  { "predicate": { "custom_model_data": 11}, "model": "item/crystal_sabre_fire" },
+  { "predicate": { "custom_model_data": 12}, "model": "item/crystal_sabre_ice" },
+  { "predicate": { "custom_model_data": 13}, "model": "item/crystal_sabre_poison" },
+  { "predicate": { "custom_model_data": 14}, "model": "item/crystal_sabre_blood" },
+  { "predicate": { "custom_model_data": 15}, "model": "item/crystal_sabre_arcane" },
+  { "predicate": { "custom_model_data": 20}, "model": "item/annihilator" },
+  { "predicate": { "custom_model_data": 21}, "model": "item/annihilator_fire" },
+  { "predicate": { "custom_model_data": 22}, "model": "item/annihilator_ice" },
+  { "predicate": { "custom_model_data": 23}, "model": "item/annihilator_poison" },
+  { "predicate": { "custom_model_data": 24}, "model": "item/annihilator_blood" },
+  { "predicate": { "custom_model_data": 25}, "model": "item/annihilator_arcane" },
+	{ "predicate": { "custom_model_data": 30}, "model": "item/runeblade" },
+  { "predicate": { "custom_model_data": 31}, "model": "item/runeblade_fire" },
+  { "predicate": { "custom_model_data": 32}, "model": "item/runeblade_ice" },
+  { "predicate": { "custom_model_data": 33}, "model": "item/runeblade_poison" },
+  { "predicate": { "custom_model_data": 34}, "model": "item/runeblade_blood" },
+  { "predicate": { "custom_model_data": 35}, "model": "item/runeblade_arcane" },
+  { "predicate": { "custom_model_data": 50}, "model": "item/translucent_blade" },
+  { "predicate": { "custom_model_data": 51}, "model": "item/yaaros_fury" },
+  { "predicate": { "custom_model_data": 52}, "model": "item/wings_of_icarus" }
+    ]
+}

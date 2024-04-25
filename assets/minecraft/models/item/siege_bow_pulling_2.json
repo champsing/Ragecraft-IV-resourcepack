@@ -1,0 +1,6 @@
+{
+    "parent": "item/siege_bow",
+    "textures": {
+        "layer0": "item/siege_bow_pulling_2"
+    }
+}

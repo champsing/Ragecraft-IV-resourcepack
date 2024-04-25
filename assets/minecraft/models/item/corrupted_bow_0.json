@@ -1,0 +1,6 @@
+{
+    "parent": "item/corrupted_bow",
+    "textures": {
+        "layer0": "item/corrupted_bow_0"
+    }
+}

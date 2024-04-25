@@ -1,0 +1,6 @@
+{
+    "parent": "item/longbow_ice",
+    "textures": {
+        "layer0": "item/longbow_ice_pulling_1"
+    }
+}

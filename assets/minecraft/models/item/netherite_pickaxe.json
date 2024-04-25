@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+    "overrides": [
+  { "predicate": { "custom_model_data": 1}, "model": "item/netherite_pickaxe_arcane" },
+  { "predicate": { "custom_model_data": 2}, "model": "item/netherite_pickaxe_fire" },
+  { "predicate": { "custom_model_data": 3}, "model": "item/netherite_pickaxe_holy" },
+  { "predicate": { "custom_model_data": 4}, "model": "item/netherite_pickaxe_lightning" }
+    ]
+}

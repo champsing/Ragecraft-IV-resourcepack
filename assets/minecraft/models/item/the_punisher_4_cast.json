@@ -1,0 +1,6 @@
+{
+    "parent": "item/the_punisher_4",
+    "textures": {
+        "layer0": "item/the_punisher_4_cast"
+    }
+}

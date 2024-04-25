@@ -1,0 +1,6 @@
+{
+    "parent": "item/cataclysm",
+    "textures": {
+        "layer0": "item/cataclysm_pulling_0"
+    }
+}

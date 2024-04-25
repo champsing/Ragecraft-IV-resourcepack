@@ -1,0 +1,6 @@
+{
+    "parent": "item/siege_bow_holy",
+    "textures": {
+        "layer0": "item/siege_bow_holy_pulling_0"
+    }
+}

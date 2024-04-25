@@ -1,0 +1,6 @@
+{
+    "parent": "item/bowblade_lightning",
+    "textures": {
+        "layer0": "item/bowblade_lightning_pulling_0"
+    }
+}
