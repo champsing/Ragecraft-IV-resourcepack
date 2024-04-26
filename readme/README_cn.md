@@ -11,6 +11,6 @@
 
 **请注意！！！原文版游戏进度将无法保存到翻译版本！！！因为是使用修改过的地图。请务必在不同存档或的文件夹开启世界！！！**
 
-下载地图后如果需要更新翻译，只需将`\%AppData%\Roaming\.minecraft\saves\[1.20.1] Ragecraft IV - by heliceo & Suso - v<版本>\resources.zip`档案更换成新的`resource.zip`文件即可。
+下载地图后如果需要更新翻译，只需将`\%AppData%\Roaming\.minecraft\saves\[1.20.1] Ragecraft IV - by heliceo & Suso - v<版本>\resources.zip`文件更换成新的`resource.zip`文件即可。
 
 随着作者更新地图，后续会将翻译键随附于地图存档中，届时如果需要更新翻译，只需同上操作即可，而不会损失任何游戏进度。
