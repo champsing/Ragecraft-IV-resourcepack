@@ -14,3 +14,5 @@
 下载地图后如果需要更新翻译，只需将`\%AppData%\Roaming\.minecraft\saves\[1.20.1] Ragecraft IV - by heliceo & Suso - v<版本>\resources.zip`文件更换成新的`resource.zip`文件即可。
 
 随着作者更新地图，后续会将翻译键随附于地图存档中，届时如果需要更新翻译，只需同上操作即可，而不会损失任何游戏进度。
+
+更多資訊可以參考：[繁體下載網址](https://beta.vmct-cn.top/tw/map/rc4#%E5%85%B6%E4%BB%96)
