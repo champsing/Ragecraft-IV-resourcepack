@@ -31,3 +31,5 @@ Language Settings: Please set your language to Chinese Simplified / Chinese Trad
 If you need to update the translation file, all you need to do is replace `\%AppData%\Roaming\.minecraft\saves\[1.20.1] Ragecraft IV - by heliceo & Suso - v<version>\resources.zip` with a newer `resource.zip`.
 
 The translation json keys will be included in the world save later as the Map creator updates the map. At that time, you can do the same step above to update the translation file without losing your game progress.
+
+For more information: [Chinese Version Page](https://beta.vmct-cn.top/map/rc4)
