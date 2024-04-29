@@ -1,21 +1,26 @@
-MIT License
+# VM翻譯組中文化更新檔使用條款
 
-Copyright (c) 2024 champsing
+最後修訂：2024年4月19日
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 授權範圍
+本使用條款適用於您（下文中稱為「使用者」或「您」）在使用VM翻譯組製作的中文化更新檔（下文中稱為「更新檔」）時的所有行為和活動。下載、安裝、使用或複製更新檔，即表示您同意遵守本條款。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 所有權利
+VM翻譯組製作的更新檔的所有權利（包括但不限於著作權、商標權和其他智慧財產權）歸VM翻譯組所有。您在此明確承認，VM翻譯組保留所有權利。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 分發限制
+未經VM翻譯組明確許可，您不得以任何形式分發、散播、複製或以其他管道向任何協力廠商提供更新檔。更新檔僅可從VM翻譯組官方網站等官方通路下載，任何其他來源的更新檔都被視為非法分發。
+
+## 修改和衍生作品
+請您根據自身需求合理地修改更新檔，但僅限於個人使用。您不得二次分發、散播、複製或以其他管道將修改過的更新檔提供給任何協力廠商。
+
+## 技術支援及更新檔更新
+VM翻譯組將定期維護更新檔以適應遊戲的更新版本，並為使用者提供必要的技術支援。然而，對於已經不再維護的專案，可能不再提供技術支援和更新檔更新。
+
+## 法律約束
+您同意遵守適用的法律法規，並承擔因違反本使用條款而產生的所有法律責任。我們保留採取適當措施以保護利益的權利，包括但不限於追究您的法律責任。
+
+## 免責聲明
+VM翻譯組不對更新檔的可靠性或完整性作出任何明示或暗示的保證或擔保。在使用更新檔過程中，如因個人操作、軟體衝突或其他原因導致遊戲存檔損壞、任務重置等情況，VM翻譯組不為此負任何責任。使用者應自行承擔使用更新檔的風險。
+
+請在使用VM翻譯組的更新檔前詳細閱讀並理解上述使用條款。如果不同意這些條款，您無權使用更新檔。使用更新檔即表示您確認並同意遵守本使用條款。如果需要其他授權，請透過書面或正式管道與VM翻譯組聯繫並獲得明確許可。

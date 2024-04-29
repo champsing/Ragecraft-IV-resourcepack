@@ -10,6 +10,8 @@
 ## 如何翻譯地圖
 在目前的版本，原版本與翻譯版本是分開的。你需要下載包含翻譯鍵的修改版地圖存檔：[點擊下載]()
 
+備用下載點 Mediafire:[載點2]()
+
 ### 注意事項
 
 **請注意！！！原文版遊戲進度將無法保存到翻譯版本！！！因為是使用修改過的地圖。請務必在不同存檔或的資料夾開啟世界！！！**
@@ -31,5 +33,11 @@
 下載地圖後如果需要更新翻譯，只需將`\%AppData%\Roaming\.minecraft\saves\[1.20.1] Ragecraft IV - by heliceo & Suso - v<版本>\resources.zip`檔案更換成新的`resource.zip`檔案即可。
 
 隨著作者更新地圖，後續會將翻譯鍵隨附於地圖存檔中，屆時如果需要更新翻譯，只需同上操作即可，而不會遺失任何遊戲進度。
+
+## 其他資訊
+
+[翻譯授權合約](https://docs.google.com/document/d/1QH-9C7Sd9ebcAl4yAAbWDcL1Wr2S2mude8PLYb66lJw/edit)
+
+[巴哈姆特貼文]()
 
 更多資訊可以參考：[繁體地圖專頁](https://beta.vmct-cn.top/tw/map/rc4#%E5%85%B6%E4%BB%96)
