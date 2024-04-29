@@ -38,6 +38,6 @@ The translation json keys will be included in the world save later as the Map cr
 
 [Copyright Authorization](https://docs.google.com/document/d/1QH-9C7Sd9ebcAl4yAAbWDcL1Wr2S2mude8PLYb66lJw/edit)
 
-[Post on Bahamut Forum]()
+[Post on Bahamut Forum](https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1073436&sum=&subbsn=0)
 
 For more information: [Chinese Version Page](https://beta.vmct-cn.top/map/rc4)

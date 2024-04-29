@@ -38,6 +38,6 @@
 
 [翻譯授權合約](https://docs.google.com/document/d/1QH-9C7Sd9ebcAl4yAAbWDcL1Wr2S2mude8PLYb66lJw/edit)
 
-[巴哈姆特貼文]()
+[巴哈姆特貼文](https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1073436&sum=&subbsn=0)
 
 更多資訊可以參考：[繁體地圖專頁](https://beta.vmct-cn.top/tw/map/rc4#%E5%85%B6%E4%BB%96)
