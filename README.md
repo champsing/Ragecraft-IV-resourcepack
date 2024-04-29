@@ -8,9 +8,9 @@ This repository is created for the resourcepack of Minecraft CTM Monument "Ragec
 The current supported version is **1.1.0**.
 
 ## How to translate the Map
-In this version of the Map, the original version and translated versions are separated. You need to download a modified version of the Map containing translation json keys to get the translation: [CLICK HERE TO DOWNLOAD]()
+In this version of the Map, the original version and translated versions are separated. You need to download a modified version of the Map containing translation json keys to get the translation: [CLICK HERE TO DOWNLOAD](https://github.com/champsing/Ragecraft-IV-resourcepack/releases/tag/v.1)
 
-Backup Download Address (Mediafire): [DL LINK 2]()
+Backup Download Address (Mediafire): [DL LINK 2](https://www.mediafire.com/folder/jurnv77qvvaf0)
 
 ### WARNINGS
 

@@ -8,9 +8,9 @@
 目前支援的地圖版本為 **1.1.0**。
 
 ## 如何翻譯地圖
-在目前的版本，原版本與翻譯版本是分開的。你需要下載包含翻譯鍵的修改版地圖存檔：[點擊下載]()
+在目前的版本，原版本與翻譯版本是分開的。你需要下載包含翻譯鍵的修改版地圖存檔：[點擊下載](https://github.com/champsing/Ragecraft-IV-resourcepack/releases/tag/v.1)
 
-備用下載點 Mediafire：[載點2]()
+備用下載點 Mediafire：[載點2](https://www.mediafire.com/folder/jurnv77qvvaf0)
 
 ### 注意事項
 
