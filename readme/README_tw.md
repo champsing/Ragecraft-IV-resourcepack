@@ -22,7 +22,7 @@
 
 1. 可以使用Fabric並安裝Sodium，這是官方唯一認證可使用的模組。*（Fabric API 不行喔！）*
 2. 可以嘗試安裝Fabric旗下的其他最佳化模組，但請不要嘗試安裝侵入性較強的模組（如Carpet），如果出現問題，概不負責！
-3. 請勿安裝Optifine！請勿安裝Optifine！請勿安裝Optifine！使用OptiFine遊玩本地圖將會導致嚴重錯誤，**請不要安裝Optifine！**
+3. 請勿安裝OptiFine！請勿安裝OptiFine！請勿安裝OptiFine！使用OptiFine遊玩本地圖將會導致嚴重錯誤，**請不要安裝OptiFine！**
 4. 如果你想在伺服器上執行本地圖，請確保伺服器是使用原版jar客戶端！
     
 ### [重要!] 安裝教學
