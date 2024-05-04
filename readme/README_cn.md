@@ -12,4 +12,4 @@
 
 关于简体中文的说明由VM汉化组简体中文组员负责。
 
-更多资讯请看：[简体地图页面](https://beta.vmct-cn.top/tw/map/rc4#%E5%85%B6%E4%BB%96)
+更多资讯请看：[简体地图页面](https://beta.vmct-cn.top/map/rc4#%E5%85%B6%E4%BB%96)
