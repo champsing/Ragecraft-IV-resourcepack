@@ -6,23 +6,35 @@
                 "\uE100": -48,
                 "\uE101": -169,
                 "\uE102": 37,
-                "\uE103": 1, 
-                "\uE104": 104, 
-                "\uE105": -2, 
-                "\uE106": 44, 
-                "\uE107": 20,
-                "\uE108": 108,
-                "\uE109": 16,
-                "\uE10A": 100,
-                "\uE10B": 20,
-                "\uE10C": 190,
-                "\uE10D": 4,
-                "\uE10E": 154,
-                "\uE10F": 6,
-                "\uE110": 68,
-                "\uE111": 20,
-                "\uE112": 116,
-                "\uE113": 10
+                "\uE103": 1,
+
+                "\uE104": -597,
+                "\uE105": 556,
+                "\uE106": -262,
+                "\uE107": 102,
+
+                "\uE108": -604,
+                "\uE109": 556,
+                "\uE10A": -186,
+                "\uE10B": 88,
+
+
+                "\uE200": 16,
+                "\uE201": 108,
+                "\uE202": 20,
+                "\uE203": 44,
+                "\uE204": 20,
+                "\uE205": 100,
+                "\uE206": 4,
+                "\uE207": 190,
+                "\uE208": 6,
+                "\uE209": 154,
+                "\uE20A": 20,
+                "\uE20B": 68,
+                "\uE20C": 10,
+                "\uE20D": 116,
+                "\uE20E": -2,
+                "\uE20F": 104
             }
         },
         {
@@ -91,24 +103,24 @@
             "ascent": 35, "height": 128,
             "chars": ["\uE00A"]
         },
-        
+
         {
             "type": "bitmap",
             "file": "rc4:font/containers_zh/unique.png",
             "ascent": 35, "height": 128,
-            "chars": ["\uE012"]
+            "chars": ["\uE00D"]
         },
         {
             "type": "bitmap",
             "file": "rc4:font/containers_zh/emerald.png",
             "ascent": 35, "height": 128,
-            "chars": ["\uE014"]
+            "chars": ["\uE00F"]
         },
         {
             "type": "bitmap",
             "file": "rc4:font/containers_zh/reward.png",
             "ascent": 35, "height": 128,
-            "chars": ["\uE017"]
+            "chars": ["\uE012"]
         }
     ]
 }

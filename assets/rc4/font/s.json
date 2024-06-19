@@ -111,13 +111,15 @@
       "height": 20,
       "chars": ["ñ"]
     },
+
     {
       "type": "bitmap",
       "file": "rc4:font/title_zh_cn.png",
       "ascent": 15,
       "height": 20,
-      "chars": ["简"]
+      "chars": ["\u7b80"]
     },
+
     {
       "type": "bitmap",
       "file": "rc4:font/title_zh_tw.png",

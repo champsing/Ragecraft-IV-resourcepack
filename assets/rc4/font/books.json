@@ -79,7 +79,7 @@
     {
       "type": "bitmap",
       "file": "rc4:font/books/repairing/xp_l.png",
-      "ascent": 36, "height": 180, "chars": ["\u00f1"]
+      "ascent": 36, "height": 180, "chars": ["ñ"]
     },
     {
       "type": "bitmap",
@@ -126,7 +126,9 @@
       "file": "rc4:font/books/rules/packs_r.png",
       "ascent": 45, "height": 180, "chars": ["w"]
     },
-	
+
+
+
     {
       "type": "bitmap",
       "file": "rc4:font/books_zh_cn/crafting/bg_crafting_r.png",
@@ -220,7 +222,7 @@
     {
       "type": "bitmap",
       "file": "rc4:font/books_zh_cn/crafting/power_ur.png",
-      "ascent": 45, "height": 90, "chars": ["\u72af"]
+      "ascent": 45, "height": 90, "chars": ["\u8303"]
     },
     {
       "type": "bitmap",
@@ -382,6 +384,8 @@
       "file": "rc4:font/books_zh_cn/rules/packs_dr.png",
       "ascent": -27, "height": 90, "chars": ["\u6768"]
     },
+
+
 
     {
       "type": "bitmap",
