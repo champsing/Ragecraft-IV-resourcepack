@@ -2525,7 +2525,7 @@
 	"events.functions.dialogue.nexus_music_off.2":"樞紐的音樂已關閉。",
 	"events.functions.dialogue.nexus_music_on.2":"樞紐的音樂已開啟。音樂可能需要一段時間才會開始。",
 	"events.functions.dialogue.nexus_settings.2":"[1] ",
-	"events.functions.dialogue.nexus_settings.3":"樞紐的背景音樂預設為啟用狀態。如果你將這張地圖的遊戲錄影上傳至\nYouTube，可能會觸發版權警告。或者，你也可以透過將聲音選單中的環境音樂的音量設定為 0 來關閉所有的環境音樂來關閉所有的環境音樂。",
+	"events.functions.dialogue.nexus_settings.3":"樞紐的背景音樂預設為啟用狀態。如果你將這張地圖的遊戲錄影上傳至\nYouTube，可能會觸發版權警告。或者，你也可以將聲音選單中的環境音樂的音量設定為 0 來關閉所有的環境音樂來關閉所有的環境音樂。",
 	"events.functions.dialogue.nexus_settings.4":"（*啟用樞紐的音樂*）",
 	"events.functions.dialogue.nexus_settings.5":"（*禁用樞紐的音樂*）",
 	"events.functions.dialogue.nexus_settings.7":"[2] ",
