@@ -2187,7 +2187,7 @@
 	"command_storage.test.test[0].1":"test",
 	"command_storage.test.test[1].1":"test2",
 	"command_storage.page_1_name.page_1_name[0].1":"效果和附魔\n",
-	"area.functions.abyss_buff_boss_tell.2":"在這個區域，站在伏聆脈絡上時你會獲得§l跳躍加速§r效果。",
+	"area.functions.abyss_buff_boss_tell.2":"在這個區域，站在伏聆脈絡上時你會獲得§l跳躍提升§r效果。",
 	"area.functions.crystal_cart_n.2":"青金石數量不足！",
 	"area.functions.crystal_cart_y.1":"已花費 10 個青金石生成新的礦車",
 	"area.functions.frigid_palace_items.2":"] ",
